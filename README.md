@@ -5,7 +5,7 @@ Link:
 https://cses.fi/problemset/
 
 List of solved problems:✅
-- Weird Algorithm ✔ https://cses.fi/problemset/task/1068
+- Weird Algorithm ✔ 
 - Missing Number ✔
 - Repetitions ✔
 - Increasing Array ✔
