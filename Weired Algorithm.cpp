@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 #define ll long long
- 
+
 int main(){
     ll n;
     cin>>n;
@@ -11,11 +11,9 @@ int main(){
             n=n/2;
         else
             n=3*n+1;
- 
-        cout<<" "<<n;
- 
-    }
- 
-}
 
-/*Problem Link:https://cses.fi/problemset/task/1068 */
+        cout<<" "<<n;
+
+    }
+
+}
