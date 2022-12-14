@@ -15,3 +15,5 @@ List of solved problems:✅
 - Two Sets ✔
 - Bit Strings ✔
 - Trailing Zeros ✔
+- Palindrome Reorder ✔
+- Gray Code ✔
