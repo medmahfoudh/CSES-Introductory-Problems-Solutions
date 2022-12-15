@@ -17,3 +17,4 @@ List of solved problems:✅
 - Trailing Zeros ✔
 - Palindrome Reorder ✔
 - Gray Code ✔
+- Tower Of Hanoi ✔
