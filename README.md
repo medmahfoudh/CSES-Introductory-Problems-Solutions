@@ -19,3 +19,7 @@ List of solved problems:✅
 - Gray Code ✔
 - Tower Of Hanoi ✔
 - Creating Strings ✔
+- Apple Division ✔
+- Chessboard and Queens ✔
+- Digit Queries ✔
+- Grid Paths ✔
