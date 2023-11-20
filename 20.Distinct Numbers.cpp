@@ -8,9 +8,9 @@ int main(){
     set<int> s;
     int temp;
     for (int i = 0; i<n ; i++){
-        cin >> temp;
+        cin>>temp;
         s.insert(temp);
     }
-    cout << s.size();
+    cout << s.size()<<endl;
 
 }
